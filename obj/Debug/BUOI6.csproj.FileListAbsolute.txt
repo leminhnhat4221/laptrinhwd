@@ -1,0 +1,15 @@
+E:\C_Sharp\BUOI6\bin\Debug\BUOI6.exe.config
+E:\C_Sharp\BUOI6\bin\Debug\BUOI6.exe
+E:\C_Sharp\BUOI6\bin\Debug\BUOI6.pdb
+E:\C_Sharp\BUOI6\bin\Debug\EntityFramework.dll
+E:\C_Sharp\BUOI6\bin\Debug\EntityFramework.SqlServer.dll
+E:\C_Sharp\BUOI6\bin\Debug\EntityFramework.xml
+E:\C_Sharp\BUOI6\bin\Debug\EntityFramework.SqlServer.xml
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.csproj.AssemblyReference.cache
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.Form1.resources
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.Properties.Resources.resources
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.csproj.GenerateResource.cache
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.csproj.CoreCompileInputs.cache
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.csproj.Up2Date
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.exe
+E:\C_Sharp\BUOI6\obj\Debug\BUOI6.pdb
